@@ -199,3 +199,8 @@ h1 {
 .dropdown .dropdown-hidden {
   display: none;
 }
+.home img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
